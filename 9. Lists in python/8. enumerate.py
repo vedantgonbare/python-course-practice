@@ -2,5 +2,4 @@
 nums = [5, 7, 4, 64, 32, 17, 53, 85, 3, 1, 999]
 
 for index, Value in enumerate(nums):
-    if Value % 2 == 0:
-        print(index)
+    print(f"Index = {index} and Value = {Value}")
