@@ -6,7 +6,6 @@ Question 65  Write a Python script that iterates through a list of integers and 
 
 """
 
-
 def replace_negative(lst):
     n = len(lst)
     for i in range(0,n):
